@@ -5,4 +5,4 @@ new Vue({
 	el: 'body',
 	components: { Favlist }
 })
-//webpack --display-modules --display-chunks --config build/webpack.config.js
+

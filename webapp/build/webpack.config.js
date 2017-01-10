@@ -39,3 +39,4 @@ module.exports = {
         })
     ]
 }
+//webpack --display-modules --display-chunks --config build/webpack.config.js
